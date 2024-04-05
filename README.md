@@ -1,4 +1,5 @@
 # API-test
+[![Playwright Tests](https://github.com/azupatrick0/API-test/actions/workflows/playwright.yml/badge.svg)](https://github.com/azupatrick0/API-test/actions/workflows/playwright.yml)
 
 ## Getting started
 
